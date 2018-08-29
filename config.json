@@ -1,0 +1,42 @@
+{
+    "rooms": {
+        "kitchen": {
+            "vocab": [
+                "kitchen",
+                "kitchenette"
+            ],
+            "cells": [
+                0,
+                1
+            ]
+        },
+        "library": {
+            "vocab": [
+                "library"
+            ],
+            "cells": [
+                2,
+                3
+            ]
+        },
+        "bedroom": {
+            "vocab": [
+                "bedroom"
+            ],
+            "cells": [
+                4,
+                5,
+                6,
+                7
+            ]
+        }
+    },
+    "items":{
+        "cup":{
+            "vocab":["cup"]
+        },
+        "spoon":{
+            "vocab":["spoon"]
+        }
+    }
+}
